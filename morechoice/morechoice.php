@@ -122,5 +122,6 @@ function morechoice_marital_selector($a,&$b) {
 		$b[] = 'Pretending to be over my ex';
 		$b[] = 'Hurt in the past';
 		$b[] = 'Wallowing in self-pity';
+		$b[] = 'Independently owned and operated';
 	}
 }
